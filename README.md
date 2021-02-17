@@ -13,6 +13,22 @@ relevant GitHub repo, if code samples were provided.
 Public talks will have presentation citations below; internally-given talks
 will not.
 
+Systems/Architecture
+--------------------
+
+- Packer: A Swiss-Army Knife for Architectural Enablement
+    - HashiCorp HashiTalks. February 2021. Virtual/Online (YouTube Live).
+        - [Slides](https://docs.google.com/presentation/d/10peaR09nS8101EiPlHUw425uZzg_hNvduWGKXt2Iksk/edit?usp=sharing)
+        - Video
+
+Tech Culture
+------------
+
+- Packer: A Swiss-Army Knife for Architectural Enablement
+    - HashiCorp HashiTalks. February 2021. Virtual/Online (YouTube Live).
+        - [Slides](https://docs.google.com/presentation/d/10peaR09nS8101EiPlHUw425uZzg_hNvduWGKXt2Iksk/edit?usp=sharing)
+        - Video
+
 Cloud
 -----
 
