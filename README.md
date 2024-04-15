@@ -17,6 +17,7 @@ Tech Culture
 ------------
 
 * [Resume-Driven Development is Awful](https://docs.google.com/presentation/d/1KItR-zJCpVyEEefPthpgNCANHc9XE2xPTuf69UykePM/edit?usp=sharing)
+  * DevUp Conference. August 2023. St. Charles Convention Center, St. Charles, MO.
   * DevUp Conference. June 2022. Ameristar Casino, St. Charles, MO.
 
 * Packer: A Swiss-Army Knife for Architectural Enablement
@@ -24,17 +25,22 @@ Tech Culture
     * [Slides](https://docs.google.com/presentation/d/10peaR09nS8101EiPlHUw425uZzg_hNvduWGKXt2Iksk/edit?usp=sharing)
     * [Video](https://www.youtube.com/watch?v=9DZcCQmXy9g&list=PL81sUbsFNc5ZfswcAV3KS0WFQmAYULkbq&index=62)
 
+Linux
+-----
+
+* [Dude, Who Broke My Linux Server?](https://github.com/opensourcecorp/workshops/tree/main/linux)
+  * CodeMash Prime, January 2024. Kalahari Resort, Sandusky, OH.
+
 Command-line / Shell
 --------------------
 
 * [How to Start Loving Command-Line Tools](https://docs.google.com/presentation/d/1sla7hVAgWcHsfwp4HkgEG9XoyliAN61_y4xiPO3y5S0/edit?usp=sharing)
+  * DevUp Conference. August 2023. St. Charles Convention Center, St. Charles, MO.
   * DevUp Conference. June 2022. Ameristar Casino, St. Charles, MO.
+  * DevUp Conference. October 2019. Ameristar Casino, St. Charles, MO.
 
 * [GNU Make Your Life Easier](https://docs.google.com/presentation/d/1MvAzXDSBHXC4DIwSOPNIO3Hs3mbfVqgLxYjtG-9_1lA/edit?usp=sharing)
   * Google Developers Group DevFest. January 2019. University of St. Louis, St. Louis, MO.
-
-* [OS-Native Command-Line Tooling to Make Your Life Easier](https://docs.google.com/presentation/d/1sla7hVAgWcHsfwp4HkgEG9XoyliAN61_y4xiPO3y5S0/edit?usp=sharing)
-  * DevUp Conference. October 2019. Ameristar Casino, St. Charles, MO.
 
 Cloud
 -----
@@ -60,3 +66,7 @@ Other
 -----
 
 * [Foundations of Personal Finance: Or, How Not to be a Money Dummy](https://docs.google.com/presentation/d/1xDVWqpCf8r17-jjq9bIJRZtBQvPZWFAwB7unrtrz7sI/edit?usp=sharing)
+
+* [Supercharging Crop Science at Bayer Using the Google Toolbox](https://drive.google.com/file/d/1fMN4txf1TZm2H0bn3YLj2RX2P4umGcxV/view?usp=drive_link)
+  * Google Cloud Next, April 2024. Mandalay Bay Conference Center, Las Vegas, NV.
+  * *`This was supposed to be recorded, and was not :(`*
