@@ -45,6 +45,9 @@ Command-line / Shell
 Cloud
 -----
 
+* [Supercharging crop science at Bayer using the Google Toolbox](https://cloud.withgoogle.com/next/speakers?session=OPS216)
+  * Google Cloud Next. April 2024. Mandalay Bay Convention Center, Las Vegas, NV.
+
 * [Effortless CI/CD (and more!) on GCP using Cloud Build](https://docs.google.com/presentation/d/17RrlrgjjyF3RMFPMHuNwrz62c4UZ_nNjXUWXpcoky84/edit?usp=sharing)
   * Google Developers Group DevFest. September 2019. University of St. Louis, St. Louis, MO.
 
