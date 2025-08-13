@@ -35,7 +35,7 @@ Linux
 Command-line / Shell
 --------------------
 
-* [How to Start Loving Command-Line Tools](https://docs.google.com/presentation/d/1sla7hVAgWcHsfwp4HkgEG9XoyliAN61_y4xiPO3y5S0/edit?usp=sharing)
+* [How to Start Loving Command-Line Tools](https://docs.google.com/presentation/d/e/2PACX-1vSEjhjcqOlJBvVdSrgiJ8pd4xHFAsX2EULNXx-v3pk1VOT79-dKTMMG8tFDbwtie1_psYLlGXhab7LQ/pub?start=true&loop=false&delayms=60000)
   * Kansas City Developer Conference. August 2025. Kansas City Convention Center, Kansas City, MO.
   * DevUp Conference. August 2023. St. Charles Convention Center, St. Charles, MO.
   * DevUp Conference. June 2022. Ameristar Casino, St. Charles, MO.
