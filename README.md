@@ -28,25 +28,25 @@ Tech Culture
 Linux
 -----
 
-* [Dude, Who Broke My Linux Server?](https://github.com/opensourcecorp/workshops/tree/main/linux)
-  * CodeMash Prime, January 2024. Kalahari Resort, Sandusky, OH.
+* [Dude, Who Broke My Linux Server?](https://github.com/opensourcecorp/workshop-linux)
+  * CodeMash, January 2025. Kalahari Resort, Sandusky, OH.
+  * CodeMash, January 2024. Kalahari Resort, Sandusky, OH.
 
 Command-line / Shell
 --------------------
 
 * [How to Start Loving Command-Line Tools](https://docs.google.com/presentation/d/1sla7hVAgWcHsfwp4HkgEG9XoyliAN61_y4xiPO3y5S0/edit?usp=sharing)
+  * Kansas City Developer Conference. August 2025. Kansas City Convention Center, Kansas City, MO.
   * DevUp Conference. August 2023. St. Charles Convention Center, St. Charles, MO.
   * DevUp Conference. June 2022. Ameristar Casino, St. Charles, MO.
   * DevUp Conference. October 2019. Ameristar Casino, St. Charles, MO.
 
 * [GNU Make Your Life Easier](https://docs.google.com/presentation/d/1MvAzXDSBHXC4DIwSOPNIO3Hs3mbfVqgLxYjtG-9_1lA/edit?usp=sharing)
+  * St. Louis Linux/UNIX User Group. April 2019. Greybar Electric, St. Louis, MO.
   * Google Developers Group DevFest. January 2019. University of St. Louis, St. Louis, MO.
 
 Cloud
 -----
-
-* [Supercharging crop science at Bayer using the Google Toolbox](https://cloud.withgoogle.com/next/speakers?session=OPS216)
-  * Google Cloud Next. April 2024. Mandalay Bay Convention Center, Las Vegas, NV.
 
 * [Effortless CI/CD (and more!) on GCP using Cloud Build](https://docs.google.com/presentation/d/17RrlrgjjyF3RMFPMHuNwrz62c4UZ_nNjXUWXpcoky84/edit?usp=sharing)
   * Google Developers Group DevFest. September 2019. University of St. Louis, St. Louis, MO.
@@ -72,4 +72,4 @@ Other
 
 * [Supercharging Crop Science at Bayer Using the Google Toolbox](https://drive.google.com/file/d/1fMN4txf1TZm2H0bn3YLj2RX2P4umGcxV/view?usp=drive_link)
   * Google Cloud Next, April 2024. Mandalay Bay Conference Center, Las Vegas, NV.
-  * *`This was supposed to be recorded, and was not :(`*
+    * *`This was supposed to be recorded, and was not :(`*
